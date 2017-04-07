@@ -1,0 +1,4 @@
+ 
+run this command from the console: java -jar perceptron.jar part3/image.data
+
+
